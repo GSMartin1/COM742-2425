@@ -3,11 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/COM742-2425.iml" filepath="$PROJECT_DIR$/COM742-2425.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week 1/Java Advanced/Java Advanced.iml" filepath="$PROJECT_DIR$/Week 1/Java Advanced/Java Advanced.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week 1/Java Basics/Java Basics.iml" filepath="$PROJECT_DIR$/Week 1/Java Basics/Java Basics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week 1/Testing blocks/Testing blocks.iml" filepath="$PROJECT_DIR$/Week 1/Testing blocks/Testing blocks.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week 1/Week 1.iml" filepath="$PROJECT_DIR$/Week 1/Week 1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week 2/Week 2.iml" filepath="$PROJECT_DIR$/Week 2/Week 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1a/Java Advanced/Java Advanced.iml" filepath="$PROJECT_DIR$/Week1a/Java Advanced/Java Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1a/Java Basics/Java Basics.iml" filepath="$PROJECT_DIR$/Week1a/Java Basics/Java Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1a/Testing blocks/Testing blocks.iml" filepath="$PROJECT_DIR$/Week1a/Testing blocks/Testing blocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1a/Week1a.iml" filepath="$PROJECT_DIR$/Week1a/Week1a.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1b/Week1b.iml" filepath="$PROJECT_DIR$/Week1b/Week1b.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2a/Week2a.iml" filepath="$PROJECT_DIR$/Week2a/Week2a.iml" />

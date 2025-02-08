@@ -17,6 +17,8 @@ public class SortComparisons {
 //        int[] arrayInsertion = bubbleSort(arrayRandom);
 //        System.out.println(Arrays.toString(arrayInsertion));
 //
+        //used to get the current time in MS
+        long CurrentTime = System.currentTimeMillis();
     }
 
     public static int[] bubbleSort(int[] data) {

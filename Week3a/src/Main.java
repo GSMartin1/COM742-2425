@@ -11,7 +11,7 @@ public class Main {
 
         System.out.println(Arrays.toString(arrayRandom));
 
-        arrayRandom = Sort.insertionSort(arrayRandom);
+        arrayRandom = SortComparisons.insertionSort(arrayRandom);
         System.out.println(Arrays.toString(arrayRandom));
 
 

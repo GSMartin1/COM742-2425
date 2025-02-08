@@ -1,8 +1,5 @@
-import java.util.Arrays;
-import java.util.Random;
-
-public class Sort {
-//    public static void main(String[] args){
+public class SortComparisons {
+    public static void main(String[] args){
 //        Random random = new Random();
 //        int[] arrayRandom = new int[100];
 //        for(int i = 0; i<arrayRandom.length;i++){
@@ -20,7 +17,7 @@ public class Sort {
 //        int[] arrayInsertion = bubbleSort(arrayRandom);
 //        System.out.println(Arrays.toString(arrayInsertion));
 //
-//    }
+    }
 
     public static int[] bubbleSort(int[] data) {
         for (int out = data.length-1; out > 0; out--) {

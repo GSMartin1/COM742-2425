@@ -12,7 +12,6 @@ public class BubbleSort {
 
     }
 
-
     public static void bubbleSort(int[] data) {
         int swapBS = 0, comparisonBS = 0;
         for (int out = data.length-1; out > 0; out--) {
